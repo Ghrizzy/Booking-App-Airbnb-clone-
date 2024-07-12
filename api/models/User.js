@@ -14,7 +14,3 @@ module.exports = UserModel;
 
 
 
-git remote add origin https://github.com/Ghrizzy/Booking-App-Airbnb-clone-.git
-
-git branch -M main
-git push -u origin main
